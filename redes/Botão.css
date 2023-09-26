@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+}
+
+.meu-botao {
+    background-color:green;
+    color: rgb(217, 238, 222);
+    padding: 15px 50px;
+    border: none;
+    border-radius: 5%;
+    font-size: 40px;
+    cursor: pointer;
+    outline: none;
+    position: absolute;
+    left:  450px;
+    bottom: 580px;
+}
+
+.meu-botao:hover {
+    background-color: black;
+}
